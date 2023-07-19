@@ -1,11 +1,12 @@
 
-
+---
 ### Overview
 This News App is powered by the News API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories like Entertainment, Sports, General, Technology, Health, Science, Business allowing users to easily browse and read articles of their interest.
 
 ---
 ### Preview:
 <img width="947" alt="1" src="https://github.com/vansh7777/V-News/assets/87646222/db7c0c96-4602-4626-91fd-c396540b8af6">
+<img width="944" alt="2" src="https://github.com/vansh7777/V-News/assets/87646222/a7279137-72a7-4a01-a096-5efe18983696">
 
 ---
 ### Features
@@ -26,5 +27,4 @@ This News App is powered by the News API and provides users with the latest news
 * React Testing Library: React Testing Library is used for testing the project. It provides utilities for testing React components and ensures that the app functions as expected.
 
 
-<img width="944" alt="2" src="https://github.com/vansh7777/V-News/assets/87646222/a7279137-72a7-4a01-a096-5efe18983696">
 
