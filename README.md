@@ -1,10 +1,10 @@
 
----
+
 ## Overview:
 This News App is powered by the News API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories like Entertainment, Sports, General, Technology, Health, Science, Business allowing users to easily browse and read articles of their interest.
 
----
-### Preview:
+
+## Preview:
 <img width="947" alt="1" src="https://github.com/vansh7777/V-News/assets/87646222/db7c0c96-4602-4626-91fd-c396540b8af6">
 
 &nbsp;
@@ -13,7 +13,7 @@ This News App is powered by the News API and provides users with the latest news
 
 <img width="944" alt="2" src="https://github.com/vansh7777/V-News/assets/87646222/a7279137-72a7-4a01-a096-5efe18983696">
 
----
+
 ## Features:
   * Category-based News: The app categorizes news articles into various categories, including entertainment, business, sports, technology, health, science, and more. Users can click on a category to view articles specific to that category.
 
@@ -21,7 +21,7 @@ This News App is powered by the News API and provides users with the latest news
 
   * Responsive Design: The app is designed to be responsive, providing a seamless experience across different screen sizes and devices. Whether users access the app from their desktop, tablet, or smartphone, the interface will adapt smoothly to fit their device.
 
----
+
 ## Technologies Used:
 * React:   The app is built using React, a popular JavaScript library for building user interfaces. React provides a robust foundation for creating interactive and dynamic components.
 
