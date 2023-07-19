@@ -10,7 +10,7 @@ This News App is powered by the News API and provides users with the latest news
   Responsive Design: The app is designed to be responsive, providing a seamless experience across different screen sizes and devices. Whether users access the app from their desktop, tablet, or smartphone, the interface will adapt smoothly to fit their device.
 
 ### Technologies Used
-React: The app is built using React, a popular JavaScript library for building user interfaces. React provides a robust foundation for creating interactive and dynamic components.
+React:   The app is built using React, a popular JavaScript library for building user interfaces. React provides a robust foundation for creating interactive and dynamic components.
 
 Styled-Components: Styled-Components is used for styling the app. It allows developers to write CSS within JavaScript, making it easier to manage styles for individual components.
 
@@ -20,3 +20,5 @@ Axios: Axios is a JavaScript library used to make HTTP requests. It is employed 
 
 React Testing Library: React Testing Library is used for testing the project. It provides utilities for testing React components and ensures that the app functions as expected.
 
+<img width="936" alt="Screenshot 2023-07-19 133506" src="https://github.com/vansh7777/V-News/assets/87646222/bf19847f-cfe0-44e2-962c-5629951fa360">
+![Uploading Screenshot 2023-07-19 133555.png…]()
