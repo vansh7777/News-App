@@ -3,11 +3,11 @@ This News App is powered by the News API and provides users with the latest news
 
 
 ### Features
-Category-based News: The app categorizes news articles into various categories, including entertainment, business, sports, technology, health, science, and more. Users can click on a category to view articles specific to that category.
+  Category-based News: The app categorizes news articles into various categories, including entertainment, business, sports, technology, health, science, and more. Users can click on a category to view articles specific to that category.
 
-Article Details: Each article is displayed with a title, description, publication date, channel, and a link to visit the source website. This ensures that users can get a comprehensive understanding of the news article before deciding to read more.
+  Article Details: Each article is displayed with a title, description, publication date, channel, and a link to visit the source website. This ensures that users can get a comprehensive understanding of the news article before deciding to read more.
 
-Responsive Design: The app is designed to be responsive, providing a seamless experience across different screen sizes and devices. Whether users access the app from their desktop, tablet, or smartphone, the interface will adapt smoothly to fit their device.
+  Responsive Design: The app is designed to be responsive, providing a seamless experience across different screen sizes and devices. Whether users access the app from their desktop, tablet, or smartphone, the interface will adapt smoothly to fit their device.
 
 ### Technologies Used
 React: The app is built using React, a popular JavaScript library for building user interfaces. React provides a robust foundation for creating interactive and dynamic components.
