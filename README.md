@@ -2,6 +2,9 @@
 
 ### Overview
 This News App is powered by the News API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories like Entertainment, Sports, General, Technology, Health, Science, Business allowing users to easily browse and read articles of their interest.
+
+
+### Preview:
 <img width="947" alt="1" src="https://github.com/vansh7777/V-News/assets/87646222/db7c0c96-4602-4626-91fd-c396540b8af6">
 ### Features
   * Category-based News: The app categorizes news articles into various categories, including entertainment, business, sports, technology, health, science, and more. Users can click on a category to view articles specific to that category.
